@@ -83,5 +83,9 @@ Caso você não tenha, pode utilizar apenas o detector de sorriso, para isso, co
 #requests.get(f"{esp32_ip}/LED=OFF") 
 ```
 
-Feito com ❤️ por [Iuky-O](https://github.com/Iuky-O)
+___
+<p align="center">
+  <b>Feito com ❤️ por</b> <a href="https://github.com/Iuky-O"><b>Iuky-O</b></a>
+</p>
+
 
