@@ -1,4 +1,7 @@
-# 🌟 Detector de Sorriso
+
+<h1 align="center">
+  <b>🌟 Detector de Sorriso 🌟</b>
+</h1>
 
 Bem-vindo ao **Detector de Sorriso**! Aqui você vai poder identificar se a pessoa esta sorrindo ou não!
 
