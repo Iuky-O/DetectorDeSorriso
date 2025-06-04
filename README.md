@@ -21,7 +21,7 @@ Abra no seu editor de código
 
 ## Criando o ambiente virtual
 
-1. Criando
+### 1. Criando
 
 ```bash
 python -m venv venv
@@ -32,7 +32,7 @@ ou
 python3 -m venv venv
 ```
 
-2. Ativando
+### 2. Ativando
  
 **🔹 Windows (CMD ou PowerShell):**
 ```bash
@@ -44,7 +44,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-3. Instalando as dependencias
+### 3. Instalando as dependências
 
 ```bash
 pip install -r requirements.txt
@@ -58,7 +58,7 @@ Para rodar você só precisa rodar este comando no terminal:
 python Process.py
 ```
 
-## Caso não tenha a placa esp32
+## 🐍 Caso não tenha a placa esp32
 Caso você não tenha, pode utilizar apenas o detector de sorriso, para isso, comente estas linhas:
 
 ```python
