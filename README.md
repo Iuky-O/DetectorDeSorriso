@@ -7,6 +7,7 @@ Quando alguém é identificado como sorrindo, um led acende no circuito com esp3
 ## 🧪 Tecnologias Utilizadas
 
 - Python
+- Flask
 - Esp32
 
 ## 🚀 Começando
@@ -54,9 +55,24 @@ pip install -r requirements.txt
 
 Para rodar você só precisa rodar este comando no terminal:
 
+### 1. **Rodando apenas o detector**
+
 ```bash
 python Process.py
 ```
+
+### 2. **Rodando detector + parte visual**
+
+```bash
+python app.py
+```
+
+Acesse com: http://127.0.0.1:5000
+
+![image](https://github.com/user-attachments/assets/a15c62d0-a6b3-4993-93d3-0660ec10496e)
+![image](https://github.com/user-attachments/assets/4f09080a-2fc4-4977-8da0-47c840ebadd5)
+
+
 
 ## 🐍 Caso não tenha a placa esp32
 Caso você não tenha, pode utilizar apenas o detector de sorriso, para isso, comente estas linhas:
